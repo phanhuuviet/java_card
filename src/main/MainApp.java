@@ -36,7 +36,7 @@ public class MainApp extends Composite {
 //		lblHahah.setText("Hahah");
 
 	}
-
+	 
 	@Override
 	protected void checkSubclass() {
 		// Disable the check that prevents subclassing of SWT components
