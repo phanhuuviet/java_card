@@ -1,0 +1,17 @@
+# Eclipse specific files
+/.classpath
+/.project
+/.settings/
+
+# Compiled class file
+/bin/
+/target/
+/build/
+
+# IntelliJ IDEA files
+/.idea
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
